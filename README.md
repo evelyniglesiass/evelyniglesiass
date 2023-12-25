@@ -1,5 +1,6 @@
 # Olá! Eu sou a Evelyn Iglesias 👋🏻
-- 🏠 Tenho 19 anos e moro no Rio Grande do Sul, Brasil.
+- 🏠 Tenho 19 anos e moro no Rio Grande do Sul.
+- 📖 Sou Técnica em Informática pelo IFSul e estou constantemente aprofundando meus conhecimentos em diversas Tecnologias.
 - 📌 Atualmente atuo como estagiária de desenvolvimento de software na <a href="https://www.lydians.com.br/" target="_blank" title="Link para o Site da Lydians">@Lydians<a/>.
 
 <br>
@@ -22,13 +23,14 @@
   <img align="center" alt="Evelyn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Evelyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Evelyn-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Evelyn-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Evelyn-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Evelyn-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ## Ferramentas de Desenvolvimento
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,github,gitlab" />
+    <img align="center" alt="Evelyn-Ferramentas" src="https://skillicons.dev/icons?i=vscode,idea,eclipse,androidstudio,github,gitlab" />
   </a>
 </p>
 
