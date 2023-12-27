@@ -1,7 +1,8 @@
 # Olá! Eu sou a Evelyn Iglesias 👋🏻
 - 🏠 Tenho 19 anos e moro no Rio Grande do Sul.
 - 📖 Sou Técnica em Informática pelo IFSul e estou constantemente aprofundando meus conhecimentos em diversas Tecnologias.
-- 📌 Atualmente atuo como estagiária de desenvolvimento de software na <a href="https://www.lydians.com.br/" target="_blank" title="Link para o Site da Lydians">@Lydians<a/>.
+- 📌 Atuo como estagiária de desenvolvimento de software na <a href="https://www.lydians.com.br/" target="_blank" title="Link para o Site da Lydians">@Lydians<a/>.
+- 🌱 Atualmente estou estudando sobre Desenvolvimento de API's RESTFul com Soring Boot e Java.
 
 <br>
 <a href="https://github.com/evelyniglesiass/github-readme-stats">
